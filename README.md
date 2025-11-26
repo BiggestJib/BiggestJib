@@ -42,4 +42,4 @@ Highlight: Compares "Rule-Based" vs "LLM-Based" matching to optimize resume scre
 📫 Connect With Me
 Email: 
 Olaosebikanajibola18@gmail.com
-LinkedIn: Ajibola Olaosebikan
+LinkedIn: www.linkedin.com/in/ajibola-olaosebikan-407ab6270
